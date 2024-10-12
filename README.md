@@ -1,2 +1,2 @@
 # cours
-projet pour prise de notes
+projet pour prise de notes en markdown
