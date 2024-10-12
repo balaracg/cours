@@ -13,3 +13,7 @@ I = \int_0^\pi f(z)dz = \int_0^\pi sin(y)dy
 $$
 
 ## Exemples
+
+$$
+\int \frac{\partial f(x)}{\partial x}dx = f(x)
+$$
