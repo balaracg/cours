@@ -1,6 +1,9 @@
 # Ecrire des équations mathématique en `makdown`
 
-LIen utile : [documentation générique de formattage markdown](https://docs.framasoft.org/fr/grav/markdown.html)
+Liens utiles : 
+* [documentation générique de formattage markdown](https://docs.framasoft.org/fr/grav/markdown.html)
+* [autre documentation générique de formattage markdown](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [documentation spécifique d'écriture mathématique](https://fr.wikibooks.org/wiki/LaTeX/Écrire_des_mathématiques)
 
 ## Principe
 
