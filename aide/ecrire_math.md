@@ -1,4 +1,4 @@
-# Ecrire des équations mathématique en `makdown`
+# Ecrire des équations mathématique en `markdown`
 
 Liens utiles : 
 * [documentation générique de formattage markdown](https://docs.framasoft.org/fr/grav/markdown.html)
